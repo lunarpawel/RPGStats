@@ -1,4 +1,5 @@
 require "./character.rb"
+require "./utilities.rb"
 
 class Simulation
   S_1ON1 = 1
